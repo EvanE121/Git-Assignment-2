@@ -11,3 +11,8 @@ Step 2<br>
  Update<br>
 Commit "STEPS 2"<br>
 Push main<br>
+
+Step 3<br>
+ Update<br>
+Commit "STEPS 3"<br>
+Push Bug-fix<br>
